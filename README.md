@@ -25,3 +25,7 @@ The following repositories contain the various codes that were used in the mobil
 * [Not in Class -- Price Comparison App](https://github.com/chandabooks/PriceComparison)
 * [Not in Class - Hangman Application](https://github.com/chandabooks/HangMan)
 * [Not in Class - Tic Tac Toe](https://github.com/chandabooks/TicTacToe)
+* [03/15/2025 - Adaptive Displays](https://github.com/chandabooks/AdaptiveDisplay)
+* [03/15/2025 - Simple Navigation](https://github.com/chandabooks/SimpleNavigation)
+* [03/15/2025 - Intents](https://github.com/chandabooks/IntentDemo)
+* [03/15/2025 - Navigation with Intent](https://github.com/chandabooks/NavigationCupCake)
