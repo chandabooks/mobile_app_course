@@ -29,3 +29,10 @@ The following repositories contain the various codes that were used in the mobil
 * [03/15/2025 - Android Studio Demonstration of Simple Navigation](https://github.com/chandabooks/SimpleNavigation)
 * [03/15/2025 - Android Studio Demonstration of Intents](https://github.com/chandabooks/IntentDemo)
 * [03/15/2025 - Android Studio Demonstration of Navigation with Intent](https://github.com/chandabooks/NavigationCupCake)
+* [04/02/2025 - Assets: Daily Quote from a text file](https://github.com/chandabooks/DailyQuoteTextFile)
+* [04/02/2025 - Assets: Daily Quote from a text file with coroutines](https://github.com/chandabooks/DailyQuoteTextCoroutines)
+* [04/02/2025 - Assets: Daily Quote from a JSON file](https://github.com/chandabooks/DailyQuoteJSON)
+* [04/02/2025 - Assets: Daily Quote from a SQlite Database](https://github.com/chandabooks/DailyQuoteSqlite)
+* [04/02/2025 - Assets: Daily Quote from a Room Database](https://github.com/chandabooks/DailyQuoteRoom)
+* [04/02/2025 - Assets: Daily Quote from the network](https://github.com/chandabooks/QuoteNetwork)
+
